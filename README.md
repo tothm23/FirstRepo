@@ -5,10 +5,11 @@ Napi rutin
 1. felkelek
 2. lefekszek
 
-Bevásárló lsita:
+Bevásárló lista:
 - tej
 - kenyér
 - vaj
+- cukor
 
 [Saját oldal](www.songgenrator.nhely.hu)
 
