@@ -17,4 +17,4 @@ Bevásárló lista:
 console.log("ok");
 ```
 
-ok
+Ez már egy új tartalom!
